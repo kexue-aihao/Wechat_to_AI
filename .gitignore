@@ -2,3 +2,7 @@
 .env
 .npm-cache/
 *.log
+receiving_standard_messages.html
+wx_doc_home.html
+wx_service_api.html
+wx_service_start.html
