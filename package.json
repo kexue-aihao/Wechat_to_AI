@@ -1,0 +1,32 @@
+{
+  "name": "wechat_to_ai",
+  "version": "1.0.0",
+  "description": "微信接入 AI 的公众号后端示例",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kexue-aihao/Wechat_to_AI.git"
+  },
+  "keywords": [
+    "wechat",
+    "openai",
+    "公众号"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kexue-aihao/Wechat_to_AI/issues"
+  },
+  "homepage": "https://github.com/kexue-aihao/Wechat_to_AI#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "fast-xml-parser": "^5.9.3",
+    "openai": "^6.45.0"
+  }
+}
